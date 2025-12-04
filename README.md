@@ -123,11 +123,7 @@ westmall.html
 
 ## OUTPUT
 ![alt text](<Screenshot 2025-12-04 091344.png>)
-![alt text](1.png)
-![alt text](2.png)
-![alt text](3.png)
-![alt text](4.png)
-![alt text](5.png)
+
 
 
 ## RESULT
