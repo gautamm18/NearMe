@@ -122,7 +122,7 @@ westmall.html
 ```
 
 ## OUTPUT
-![alt text](<gautam/mapapp/static/Screenshot 2025-11-26 114137.png>)
+![alt text](<Screenshot 2025-12-04 091344.png>)
 ![alt text](1.png)
 ![alt text](2.png)
 ![alt text](3.png)
