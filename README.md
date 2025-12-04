@@ -123,6 +123,7 @@ westmall.html
 
 ## OUTPUT
 ![alt text](<Screenshot 2025-12-04 091344.png>)
+![alt text](<Screenshot 2025-12-04 092004-1.png>) ![alt text](<Screenshot 2025-12-04 092028-1.png>) ![alt text](<Screenshot 2025-12-04 092055-1.png>) ![alt text](<Screenshot 2025-12-04 092111-1.png>) ![alt text](<Screenshot 2025-12-04 092148-1.png>)
 
 
 
